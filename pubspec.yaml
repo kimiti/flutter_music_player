@@ -27,6 +27,7 @@ dependencies:
   rxdart: ^0.23.1
   flute_music_player: ^0.0.6
   permission_handler: ^4.4.0+hotfix.2
+  shared_preferences: ^0.5.6+3
 
 dev_dependencies:
   flutter_test:
