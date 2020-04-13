@@ -1,1 +1,1 @@
-
+enum Playback { repeatSong, shuffle }
